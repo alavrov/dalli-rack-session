@@ -1,4 +1,4 @@
 == DalliSession
 
-Rack::Session::Memcache clone using dalli as a mamceche client.
+Rack::Session::Memcache clone using dalli as a memcache client.
 Extremely alpha ATM, use at your own risk.
